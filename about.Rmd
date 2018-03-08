@@ -2,10 +2,14 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+## **Current Profession**
 
-- __Name:__ Benjamin
-- __Ocupation:__ PhD Student at Linnaeus University (Sweden)"
-- __Hobbies:__ Sports 
+I'm currently working as a PhD student in the Pinhassi lab at the Linnaeus University in Kamar (Sweden), in the field of aquatic microbial ecology.<p/>
 
-Stay tuned for new exciting stuff ...
+## **Research Focus**
+
+The main focus of my current research is to investigate the role of marine bacterioplankton in carbon cycling by deciphering the genetic basis for organic carbon utilization. Dissolved organic carbon (DOC) derived from phytoplankton photosynthesis represents the main biologically available organic carbon pool in the ocean. The uptake and utilization of organic carbon compounds is largely determined by the metabolic potential encoded in the genomes of marine bacteria, although molecular detail on how they impact on particular element cycles remain largely unknown.</p>
+
+My research is based on state-of-the-art techniques in microbiology, microbial ecology and molecular biology such as metagenomic and metatranscriptomic and predominately based on field studies, microcosm and mesocosm experiments. I'm personally interested in natural microbial assemblages and their complex functional role in dissolved organic matter cycling (DOM).</p>
+
+![](Ben_high_res_CV_mendeley.jpg)

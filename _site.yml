@@ -4,8 +4,23 @@ navbar:
   title: "Benjamin Pontiller"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About Me"
+      icon: fa-info
       href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "Publications"
+      href: publications.html
+    - text: "News"
+      href: news.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    highlight: textmate
+    include:
+      after_body: footer.html
+    theme: flatly
+    css: style.css

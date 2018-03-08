@@ -2,6 +2,6 @@
 title: "Projects"
 ---
 
-Project ONE
+Bring here ggmap world from mine presentation with the overview of study sites...
 
-Project TWO
+Short project description and nice pictures

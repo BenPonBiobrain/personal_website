@@ -1,5 +1,5 @@
 ---
-title: "Bens's Website"
+title: "Welcome to **The Fascinating World of Microbes**!"
 ---
 
-Hello, World!
+![](Picture1.png)
