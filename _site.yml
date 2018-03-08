@@ -1,0 +1,11 @@
+name: "bens-website"
+output_dir: "."
+navbar:
+  title: "Benjamin Pontiller"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
