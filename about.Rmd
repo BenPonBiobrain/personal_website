@@ -3,3 +3,9 @@ title: "About Me"
 ---
 
 Why I am awesome. 
+
+- __Name:__ Benjamin
+- __Ocupation:__ PhD Student at Linnaeus University (Sweden)"
+- __Hobbies:__ Sports 
+
+Stay tuned for new exciting stuff ...
