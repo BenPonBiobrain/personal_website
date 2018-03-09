@@ -2,4 +2,19 @@
 title: "Welcome to **The Fascinating World of Microbes**!"
 ---
 
+---
+
 ![](Picture1.png)
+
+---
+
+## **Did you know that:**
+
+- **1 mL** of seawater contains around **1 billion** microbial cells!
+
+- Microorganisms are the **key players in biogeochemical cycles** for example the carbon cycle with major implications for regulating the Earth's climate!
+
+- The total estimated **microbial surface area** is the **largest on this planet!**
+
+---
+

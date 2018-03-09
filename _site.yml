@@ -7,18 +7,32 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "About Me"
-      icon: fa-info
       href: about.html
+    - text: "CV"
+      icon: ion-university
+      href: cv.html
     - text: "Projects"
       href: projects.html
     - text: "Publications"
       href: publications.html
     - text: "News"
       href: news.html
+    - text: "Manuscripts"
+      href: manuscripts.html
     - text: "Contact"
       href: contact.html
+      menu:
+        - text: "Email"
+          icon: ion-email
+          href: "mailto:benjamin.pontiller@lnu.se"
+        - text: "Linkedin"
+          icon: ion-social-linkedin
+          href: "https://www.linkedin.com/in/benjamin-pontiller-11087b108/"
+        - text: "ResearchGate"
+          href: "https://www.researchgate.net/profile/Benjamin_Pontiller"
 output:
   html_document:
+    toc_float: TRUE
     highlight: textmate
     include:
       after_body: footer.html

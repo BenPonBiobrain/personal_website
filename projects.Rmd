@@ -2,6 +2,40 @@
 title: "Projects"
 ---
 
-Bring here ggmap world from mine presentation with the overview of study sites...
+---
 
-Short project description and nice pictures
+## **Overview of the study sites**
+
+![](world.png)
+
+---
+
+## **Dissolved Organic Matter (DOM) Additions**
+
+Add a short project description such as parts of my abstracts
+-Where?
+-What is it about?
+-Why?
+-How?
+
+---
+
+## **ENVISION - The role of Vitamins**
+
+Add a short project description such as parts of my abstracts
+-Where?
+-What is it about?
+-Why?
+-How?
+
+---
+
+## **Microbial Activity in a stratified water column**
+
+Add a short project description such as parts of my abstracts
+-Where?
+-What is it about?
+-Why?
+-How?
+
+---
