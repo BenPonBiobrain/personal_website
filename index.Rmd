@@ -5,6 +5,7 @@ title: "Welcome to **The Fascinating World of Microbes**!"
 ---
 
 ![](Picture1.png)
+This is an epifluorescence microscopy image showing the fluorescence of microbial DNA after staining few mililiters of seawater with specific dyes. Visible in blue colour are all organisms (Bacteria and Archaea), while the green colour indicates Bacteria only after hybridization with the EUB FISH probe (Fluorescence In Situ Hybridization).
 
 ---
 
@@ -14,7 +15,7 @@ title: "Welcome to **The Fascinating World of Microbes**!"
 
 - Microorganisms are the **key players in biogeochemical cycles** for example the carbon cycle with major implications for regulating the Earth's climate!
 
-- The total estimated **microbial surface area** is the **largest on this planet!**
+- The total estimated **microbial surface area** is the **largest on this planet**!
 
 ---
 

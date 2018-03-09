@@ -12,7 +12,13 @@ navbar:
       icon: ion-university
       href: cv.html
     - text: "Projects"
-      href: projects.html
+      menu:
+        - text: "DOM"
+          href: project1.html
+        - text: "ENVISION"
+          href: project2.html
+        - text: "KB"
+          href: project3.html
     - text: "Publications"
       href: publications.html
     - text: "News"

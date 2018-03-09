@@ -13,23 +13,27 @@ body{
   font-family: Arial;
   font-size: 14pt;
 }
-/* Headers1 */
-h1,{
+/* Header1 */
+h1{
+  font-family: Arial;
   font-size: 22pt;
 }
 
 /* Headers2and3 */
 h2,h3{
+  font-family: Arial;
   font-size: 20pt;
 }
 
 /* Header4 */
-h4,{
+h4{
+  font-family: Arial;
   font-size: 18pt;
+  font-style: italic;
 }
 
 /* Header5 */
-h5,{
+h5{
   font-family: "Arial";
   font-size: 30pt;
   font-style: italic;
