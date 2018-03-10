@@ -19,6 +19,14 @@ navbar:
           href: project2.html
         - text: "KB"
           href: project3.html
+        - text: "LMO"
+          href: project4.html
+    - text: "Collaborations"
+      menu:
+        - text: "Euks & Bacs"
+          href: project5.html
+        - text: "Zooplankton"
+          href: project6.html
     - text: "Publications"
       href: publications.html
     - text: "News"
@@ -26,7 +34,6 @@ navbar:
     - text: "Manuscripts"
       href: manuscripts.html
     - text: "Contact"
-      href: contact.html
       menu:
         - text: "Email"
           icon: ion-email

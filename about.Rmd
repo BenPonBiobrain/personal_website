@@ -6,7 +6,7 @@ title: "About Me"
 
 ## **Current Profession**
 
-I'm currently working as a PhD student in the [Pinhassi lab](https://lnu.se/en/staff/jarone.pinhassi/) at the Linnaeus University in Kamar (Sweden), in the field of aquatic microbial ecology.
+I'm currently working as a PhD student in the [Pinhassi lab](https://lnu.se/en/staff/jarone.pinhassi/) at Linnaeus University in Kamar (Sweden), in the field of aquatic microbial ecology.
 
 ---
 
@@ -20,7 +20,7 @@ My research is based on state-of-the-art techniques in microbiology, microbial e
 
 ## **Intensions & Aims**
 
-This webpage should provide knowledge about the importance of microorganism based on my own research activities in the frame of my PhD-thesis. I'm aiming on presenting scientific content, but in an understandable form in order to reach hopefully also people who are not directly related to academia. I'm eager on summarising ongoing research results and to discuss the relevance of them by focusing on the big picture.
+This webpage should provide knowledge about the importance of microorganism based on my own research activities in the frame of my PhD-thesis. I'm aiming on presenting scientific content of ongoing research, but in an understandable form in order to reach hopefully also people who are not directly related to academia. I'm eager on summarising results and to discuss the relevance of them in the broad contex.
 
 ---
 
