@@ -29,10 +29,10 @@ navbar:
           href: project6.html
     - text: "Publications"
       href: publications.html
-    - text: "News"
-      href: news.html
     - text: "Manuscripts"
       href: manuscripts.html
+    - text: "News"
+      href: news.html
     - text: "Contact"
       menu:
         - text: "Email"
