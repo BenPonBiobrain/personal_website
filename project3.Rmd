@@ -5,13 +5,9 @@ output: html_document
 
 ---
 
-## **Microbial Activity in a stratified water column**
+## **Microbial activity in a stratified water column**
 
->Add a short project description such as parts of my abstracts
--Where?
--What is it about?
--Why?
--How?
+> More information is coming soon...
 
 ---
 

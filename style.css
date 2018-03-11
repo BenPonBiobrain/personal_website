@@ -1,8 +1,21 @@
 img {
-  width: 500px;
+  width: 600px;
   display: block;
   margin: 0 auto;
 }
+
+img#epi{
+  width: 550px;
+  display: block;
+  margin: 0 auto;
+}
+
+img#cv{
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
 
 blockquote {
   font-style: italic
@@ -11,6 +24,7 @@ blockquote {
 /* Whole document: */
 body{
   font-family: Arial;
+  display: block;
   font-size: 14pt;
 }
 /* Header1 */

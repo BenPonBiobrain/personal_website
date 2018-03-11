@@ -5,7 +5,11 @@ output: html_document
 
 ## **LMO**
 
-> Linnaeus Microbial Observatory (LMO) is a time series station approximately 10 km East of Öland (Sweden) located in the Baltic Sea. 
+> Linnaeus Microbial Observatory (LMO) is a time series station approximately 10 km East of Öland (Sweden) located in the Baltic Sea.
+
+---
+
+> More information is coming soon...
 
 ---
 

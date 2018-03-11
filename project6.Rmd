@@ -7,7 +7,7 @@ output: html_document
 
 ## **Interaction between Zooplankton and Prokaryotes**
 
-> More information is comming soon...
+> More information is coming soon...
 
 ---
 
