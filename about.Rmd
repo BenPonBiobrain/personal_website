@@ -25,17 +25,17 @@ I'm personally interested in the dynamics of **natural microbial assemblages**. 
 - What is the functional response of Bacteria to various **labile dissolved organic matter (LDOM)** model compounds? (see <a href="project1.html">**DOM project**</a>),
 - What do Bacteria express in different stages of a phytoplankton bloom? (see <a href="project2.html">**ENVISION project**</a>)
 - What is the functional role of Bacteria in different **strongly stratified water masses**? (see <a href="project3.html">**KB project**</a>)
-- What are the **interactions** between **Bacteria and Eukaryotes**? (see <a href="project4.html">**LMO project**</a> and <a href="project5.html">**Collaboration**</a>)
-- What are the **interactions** between **Microbes** and **Zooplankton derived DOM**? (see <a href="project6.html">**Collaboration**</a>)
+- What are the **interactions** between **Bacteria and Eukaryotes**? (see <a href="project4.html">**LMO project**</a> and <a href="project5.html">**Collaborations**</a>)
+- What are the **interactions** between **Microbes** and **Zooplankton derived DOM**? (see <a href="project6.html">**Collaborations**</a>)
 
 ---
 
 ## **Intensions & Aims of Outreach**
 
-This webpage should provide knowledge about the importance of microorganisms based on my own research activities in the frame of my PhD-thesis. I'm aiming on presenting scientific content about ongoing research in an "not-too-scientific" understandable form with YOU! A special focus should be on discussing the relevance of single projects but more importantly I'd like to put several projects together and to discuss them at a relatively broad level. I'm aiming on communicating science within academia but more importantly with society. For those of you who are more interested in details, please check the publication section (link here).
+This webpage should provide knowledge about the importance of microorganisms based on my own research activities in the frame of my PhD-thesis. I'm aiming on presenting scientific content about ongoing research in an "not-too-scientific" understandable form with YOU! A special focus should be on discussing the relevance of single projects but more importantly I'd like to put several projects together and to discuss them at a relatively broad level. I'm aiming on communicating science within academia but more importantly with society. For those of you who are more interested in details, please check <a href="publications.html">**Publications**</a>.
 
 
->I hope you'll enjoy exploring **The World of Microbes** as much I as I do!
+>I hope you'll enjoy exploring **The World of Microbes** as much as I do!
 
 ---
 

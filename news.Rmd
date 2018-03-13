@@ -14,9 +14,11 @@ title: "News"
 
 ## **Upcoming Conferences**
 
-- **Gordon Research Conference (GRC) - Marine Microbes**, Lucca (Barga), Italy, Poster presentation: **Distinct responses in bacterioplankton community structure, activity, and gene expression to dissolved organic matter compounds of different complexity**, (01. - 06. July 2018).
+- **Gordon Research Conference (GRC) - Marine Microbes**, Lucca (Barga), Italy,
+Poster presentation: *Distinct responses in bacterioplankton community structure, activity, and gene expression to dissolved organic matter compounds of different complexity*, (01. - 06. July 2018).
 
-- **ISME17 - 17th International Symposium on Microbial Ecology**, Leipzig, Germany, Poster presentation: **Pronounced differences in bacterioplankton community composition and gene expression of a pre- and post- phytoplankton bloom in an upwelling system, (12. - 17. August 2018).
+- **ISME17 - 17th International Symposium on Microbial Ecology**, Leipzig, Germany,
+Poster presentation: *Pronounced differences in bacterioplankton community composition and gene expression of a pre- and post-phytoplankton bloom in an upwelling system*, (12. - 17. August 2018).
 
 ---
 
