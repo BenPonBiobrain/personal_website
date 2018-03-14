@@ -6,7 +6,7 @@ title: "About Me"
 
 ## **Current Profession**
 
-I'm currently working as a PhD student in the [Pinhassi lab](https://lnu.se/en/staff/jarone.pinhassi/) at Linnaeus University in Kamar (Sweden), in the field of aquatic microbial ecology.
+I'm currently working as a PhD student in the [Pinhassi lab](https://lnu.se/en/staff/jarone.pinhassi/) at Linnaeus University in Kalmar (Sweden), in the field of aquatic microbial ecology.
 
 ---
 
@@ -14,9 +14,9 @@ I'm currently working as a PhD student in the [Pinhassi lab](https://lnu.se/en/s
 
 The main focus of my current research is to investigate the role of marine bacterioplankton in carbon cycling by deciphering the genetic basis for organic carbon utilization. Dissolved organic carbon (DOC) derived from phytoplankton photosynthesis represents the main biologically available organic carbon pool in the ocean. The uptake and utilization of organic carbon compounds is largely determined by the metabolic potential encoded in the genomes of marine bacteria, although molecular detail on how they impact on particular element cycles remain largely unknown.
 
-My research is based on state-of-the-art techniques in microbiology, microbial ecology and molecular biology such as metagenomics and metatranscriptomics and mainly based on field studies, microcosm and mesocosm experiments.
+My research is based on state-of-the-art techniques in microbiology, microbial ecology, and molecular biology such as metagenomics and metatranscriptomics and mainly based on field studies, microcosm and mesocosm experiments.
 
-I'm personally interested in the dynamics of **natural microbial assemblages**. My curiousity goes beyond phylogenetic composition and is dealing with the **functional role** of Microbes (What do they do? & Who is doing it?).
+I'm personally interested in the dynamics of **natural microbial assemblages**. My curiosity  goes beyond phylogenetic composition and is dealing with the **functional role** of Microbes (What do they do? & Who is doing it?).
 
 ---
 
