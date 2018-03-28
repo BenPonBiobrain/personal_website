@@ -16,7 +16,7 @@ The main focus of my current research is to investigate the role of marine bacte
 
 My research is based on state-of-the-art techniques in microbiology, microbial ecology, and molecular biology such as metagenomics and metatranscriptomics and mainly based on field studies, microcosm and mesocosm experiments.
 
-I'm personally interested in the dynamics of **natural microbial assemblages**. My curiosity  goes beyond phylogenetic composition and is dealing with the **functional role** of Microbes (What do they do? & Who is doing it?).
+I'm personally interested in the dynamics of **natural microbial assemblages**. My curiosity  goes beyond phylogenetic composition and is dealing with the **functional role** of microbes (What do they do? & Who is doing it?).
 
 ---
 
