@@ -1,0 +1,58 @@
+---
+title: "wordcloud"
+output: html_document
+---
+
+```{r include=F, meassage=F, warnings=F}
+require(tidyverse)
+require(viridis)
+require(wordcloud2)
+require(wordcloud)
+require(sotu)
+require(tm)
+```
+```{r include=F, meassage=F, warnings=F}
+data(SOTU)
+corp <- SOTU
+corp <- tm_map(corp, removePunctuation)
+corp <- tm_map(corp, content_transformer(tolower))
+corp <- tm_map(corp, removeNumbers)
+corp <- tm_map(corp, function(x)removeWords(x,stopwords()))
+term.matrix <- TermDocumentMatrix(corp)
+term.matrix <- as.matrix(term.matrix)
+colnames(term.matrix) <- c("SOTU 2010","SOTU 2011")
+comparison.cloud(term.matrix,max.words=40,random.order=FALSE)
+commonality.cloud(term.matrix,max.words=40,random.order=FALSE)
+```
+
+```{r include=F}
+text <- c("Many years ago the great British explorer George Mallory, who 
+was to die on Mount Everest, was asked why did he want to climb 
+it. He said, \"Because it is there.\"
+
+Well, space is there, and we're going to climb it, and the 
+moon and the planets are there, and new hopes for knowledge 
+and peace are there. And, therefore, as we set sail we ask 
+God's blessing on the most hazardous and dangerous and greatest 
+adventure on which man has ever embarked.")
+```
+
+```{r include=T, meassage=F, warnings=F, echo=F}
+wc <- wordcloud(text, random.order=FALSE)
+```
+
+```{r include=T, meassage=F, warnings=F, echo=F}
+wcdemo <- wordcloud2(data = demoFreq)
+wcdemo
+```
+
+```{r include=T, echo=F}
+lclouddemo <- letterCloud(demoFreq, word = "R", size = 1)
+lclouddemo
+```
+
+```{r}
+wordcloud.test <- read.csv("/Users/bepoaa/Desktop/wordcloud.test.csv", sep=";") %>%
+  separate(Vitamins.and.Cofactors)
+```
+
