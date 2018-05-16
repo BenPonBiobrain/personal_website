@@ -63,28 +63,28 @@ map.world.all.ENV
 <div class="polaroid">
   <img src="ENV_pics_webpage/JPEG/DSCN5220_1.jpg" style="width:100%">
   <div class="container">
-  <p1>On the way</p1>
+  <p1>Out at sea</p1>
   </div>
 </div>
 
 <div class="polaroid">
 <img src="ENV_pics_webpage/JPEG/DSCN5009_1.jpg" style="width:100%"/>
 <div class="container">
-  <p1>On the way</p1>
+  <p1>Rosette sampling device equipped with Niskin bottles</p1>
   </div>
 </div>
 
 <div class="polaroid">
 <img src="ENV_pics_webpage/JPEG/DSCN5001_1.jpg" style="width:100%"/>
 <div class="container">
-  <p1>On the way</p1>
+  <p1>Collecting water from different depth layers</p1>
   </div>
 </div>
 
 <div class="polaroid">
 <img src="ENV_pics_webpage/JPEG/DSCN5003_1.jpg" style="width:100%"/>
 <div class="container">
-  <p1>On the way</p1>
+  <p1>Water is coming!</p1>
   </div>
 </div>
 
@@ -93,7 +93,7 @@ map.world.all.ENV
 <div class="polaroid">
 <img src="ENV_pics_webpage/JPEG/DSCN4905_1.jpg" style="width:100%">
 <div class="container">
-  <p1>On the way</p1>
+  <p1>After a long day of intensive work finally time to enjoy an incredibly beautiful sunset</p1>
   </div>
 </div>
 
