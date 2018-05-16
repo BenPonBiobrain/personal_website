@@ -12,9 +12,9 @@ output: html_document
 ---
 
 ```{r include=F, meassage=F, warnings=F}
-#if (require("ggfortify")) {
+# if (require("ggfortify")) {
 #  map.world <- map_data("world")
-#}
+# }
 ```
 
 ```{r include=F, meassage=F, warnings=F}

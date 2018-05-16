@@ -12,9 +12,9 @@ output: html_document
 ---
 
 ```{r include=F, meassage=F, warnings=F}
-#if (require("ggfortify")) {
+# if (require("ggfortify")) {
 #  map.world <- map_data("world")
-#}
+# }
 ```
 
 ```{r include=F, meassage=F, warnings=F}
@@ -50,3 +50,51 @@ map.world.all.ENV
 ```
 
 ----
+
+**Impressions of the field work**
+
+<div class="polaroid">
+  <img src="ENV_pics_webpage/JPEG/DSCN4825_1.jpg" style="width:100%">
+  <div class="container">
+  <p1>R/V Ramon Margalef</p1>
+  </div>
+</div>
+
+<div class="polaroid">
+  <img src="ENV_pics_webpage/JPEG/DSCN5220_1.jpg" style="width:100%">
+  <div class="container">
+  <p1>On the way</p1>
+  </div>
+</div>
+
+<div class="polaroid">
+<img src="ENV_pics_webpage/JPEG/DSCN5009_1.jpg" style="width:100%"/>
+<div class="container">
+  <p1>On the way</p1>
+  </div>
+</div>
+
+<div class="polaroid">
+<img src="ENV_pics_webpage/JPEG/DSCN5001_1.jpg" style="width:100%"/>
+<div class="container">
+  <p1>On the way</p1>
+  </div>
+</div>
+
+<div class="polaroid">
+<img src="ENV_pics_webpage/JPEG/DSCN5003_1.jpg" style="width:100%"/>
+<div class="container">
+  <p1>On the way</p1>
+  </div>
+</div>
+
+---
+
+<div class="polaroid">
+<img src="ENV_pics_webpage/JPEG/DSCN4905_1.jpg" style="width:100%">
+<div class="container">
+  <p1>On the way</p1>
+  </div>
+</div>
+
+---

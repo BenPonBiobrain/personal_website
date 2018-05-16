@@ -47,6 +47,7 @@ map.world.all.DOM <- ggplot(map.world.df, aes(x = long, y = lat)) +
   coord_map("ortho", orientation=c(56.6, 16.3, -15))
 map.world.all.DOM
 }
+#ggsave("~/Desktop/PhD_LNU/6_Posters/map.world.all.DOM.eps", width = 20, height = 20)
 ```
 
 ---

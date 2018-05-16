@@ -1,7 +1,27 @@
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: left;
+  padding: 10px 20px;
+}
+
 img {
+  margin: 0 auto;
+}
+
+img#default {
   width: 600px;
   display: block;
   margin: 0 auto;
+  border-radius: 10px;
+  padding: 10px 20px;
+  
 }
 
 img#epi{
@@ -25,8 +45,16 @@ blockquote {
 body{
   font-family: Arial;
   display: block;
-  font-size: 14pt;
+  font-size: 12pt;
 }
+
+/* Header_polaroid */
+p1{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  text-align: center;
+}
+
 /* Header1 */
 h1{
   font-family: Arial;
