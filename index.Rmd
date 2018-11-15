@@ -37,7 +37,7 @@ title: "Welcome to **The Fascinating World of Microbes**!"
 
 - Roughly 50% of the oxygen that we consume is produced by phytoplankton (small algae & cyanobacteria)!
 
-- Thus, aquatic ecosystems are of crucial importance for the whole planet!
+- Thus, processes mediated in aquatic ecosystems are of crucial global importance!
 
 ---
 
@@ -45,7 +45,7 @@ title: "Welcome to **The Fascinating World of Microbes**!"
 
 - **1 mL** of seawater contains around **1 billion** microbial cells!
 
-- Microorganisms are the **key players in biogeochemical cycles** for example the carbon cycle with major implications for regulating the Earth's climate!
+- Microorganisms are the **key players in biogeochemical cycles** for example the carbon cycle with major implications for regulating the climate!
 
 - The total estimated **microbial surface area** is the **largest on this planet**!
 
@@ -55,7 +55,7 @@ title: "Welcome to **The Fascinating World of Microbes**!"
 
 ---
 
-This is an epifluorescence microscopy image of a few mL of seawater. It shows the fluorescence of microbial DNA after staining with specific dyes. In blue colour you can see mainly *Archaea* and in green mainly *Bacteria* after hybridization with a specific FISH probe (Fluorescence In Situ Hybridization).
+This is an epifluorescence microscopy image of a few mL of seawater. It shows the fluorescence of microbial DNA after staining it with a specific dye. In blue colour you can see mainly *Archaea* and in green mainly *Bacteria* after hybridization with a specific FISH probe (Fluorescence In Situ Hybridization).
 
 ---
 

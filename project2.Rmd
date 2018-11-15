@@ -23,10 +23,11 @@ require(viridis)
 ```
 
 ```{r include=F, meassage=F, warnings=F}
-project_stations.ENV <- read_tsv("~/Desktop/project_stations.tsv") %>%
+project_stations.ENV <- read_tsv("~/Desktop/projects/my_website/website/project_stations.tsv") %>%
   filter(STATION == "VIGO") %>%
   mutate(STATION=ifelse(STATION == "VIGO", "ENVISION", ""))
-map.world.df <- map.world %>% rename(gr=group)
+
+if (!require(map.world.df)) map.world.df <- map_data("world") %>% rename(gr = group)
 ```
 
 ```{r meassage=F, warnings=F, echo=F, fig.height=12, fig.width=12}
@@ -47,6 +48,7 @@ map.world.all.ENV <- ggplot(map.world.df, aes(x = long, y = lat)) +
   coord_map("ortho", orientation=c(56.6, 16.3, -15))
 map.world.all.ENV
 }
+#ggsave("~/Desktop/PhD_LNU/6_Posters/map.world.all.ENVISION.eps", width = 20, height = 20)
 ```
 
 ----
