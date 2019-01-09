@@ -46,7 +46,7 @@ navbar:
 output:
   html_document:
     toc_float: TRUE
-    highlight: textmate
+    highlight: tango
     include:
       after_body: footer.html
     theme: flatly
