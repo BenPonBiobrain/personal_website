@@ -44,6 +44,6 @@ This webpage should provide knowledge about the importance of microorganisms bas
 
 ---
 
-<img id="cv" src="Ben_high_res_CV_webpage_blur.jpg"/>
+<img id="cv" src="Ben_high_res_CV_bw_blur.jpg"/>
 
 ---
