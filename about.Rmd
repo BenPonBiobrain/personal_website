@@ -19,7 +19,7 @@ Benjamin is currently working on the interaction between bacteria and dissolved 
 encoded in the genomes of marine bacteria. However, detail on the underlying molecular mechanisms and how they impact the cycling of organic matter remain
 largely unknown. Ben's research is based on field studies and experiments with natural marine bacterial assemblages.
 
-Ben's current work focuses on elucidating the functional dynamics of heterotrophic bacteria in the degradation of ecologically relevant sources of organic compounds by applying state-of-the-art techniques currently used in microbiology, microbial ecology and molecular biology such as metagenomics and metatranscriptomics and mainly based on field studies, mesocosm and microcosm experiments.
+Ben's current work focuses on elucidating the functional dynamics of heterotrophic bacteria in the degradation of ecologically relevant sources of organic compounds by applying state-of-the-art techniques currently used in microbiology, microbial ecology and molecular biology such as metagenomics and metatranscriptomics, mainly based on field studies, mesocosm and microcosm experiments.
 
 He is interested in the dynamics of **natural microbial assemblages** and his curiosity goes beyond phylogenetic composition and is dealing with the **functional role** of microbes (What do they do? & Who is doing it?).
 
@@ -37,10 +37,10 @@ He is interested in the dynamics of **natural microbial assemblages** and his cu
 
 ## **Outreach**
 
-This webpage should provide knowledge about the importance of microorganisms based on Ben's research activities in the frame of his PhD-thesis. He is aiming on presenting scientific content about ongoing research in an understandable form with a broader audience - YOU! A special focus should be on discussing the relevance of single projects but more importantly, he'd like to put several projects together and to discuss them at a relatively broad level. He aims on communicating science within academia but more importantly with society. For those of you who are more interested in details, I kindly refer you to the <a href="publications.html">**Publications**</a> section.
+This webpage should provide knowledge about the importance of microorganisms based on Ben's research activities in the frame of his PhD-thesis. He is aiming to present scientific content about his ongoing research in an understandable format within academia, but more importantly, with society. For those more interested in details, have a look at the <a href="publications.html">**Publications**</a> section.
 
 
->Hopefully you'll enjoy exploring Ben's webpage and stay tuned!
+>Hopefully, you'll enjoy exploring Ben's webpage and stay tuned!
 
 ---
 
